@@ -1,0 +1,31 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "products/Без_названия_q07D8X6.jpg",
+            "name": "Limon",
+            "price": "0.00",
+            "description": "sdsdsfsfs",
+            "category__name": "dzsd",
+            "count": 0
+        },
+        {
+            "id": 2,
+            "image": "products/WhatsApp_Image_2024-05-22_at_10.41.27.jpeg",
+            "name": "cola",
+            "price": "0.00",
+            "description": "sds",
+            "category__name": "dzsd",
+            "count": 0
+        },
+        {
+            "id": 3,
+            "image": "products/images_4.jpg",
+            "name": "fanta 1л",
+            "price": "450.00",
+            "description": "вавававвауавпвваппп",
+            "category__name": "dzsd",
+            "count": 0
+        }
+    ]
+}

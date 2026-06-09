@@ -1,0 +1,2 @@
+/Users/macstore.uz/Desktop/Projects/Mobile/shop_app/android/app/.cxx/RelWithDebInfo/6k3z473j/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/macstore.uz/Desktop/Projects/Mobile/shop_app/android/app/.cxx/RelWithDebInfo/6k3z473j/armeabi-v7a/CMakeFiles/edit_cache.dir

@@ -1,0 +1,17 @@
+{
+    "order": {
+        "user_id": 1,
+        "description": "Buyurtma tavsifi",
+        "locationLink": "https://maps.google.com/?q=loc:37.7749,-122.4194",
+        "totalPrice": "100.00",
+        "createdAt": "2024-06-16T15:30:02.486082Z",
+        "isAccepted": true,
+        "isProcess": false,
+        "isDelivered": false,
+        "isCompleted": false,
+        "isCanceled": false,
+        "productsList": [
+            1
+        ]
+    }
+}

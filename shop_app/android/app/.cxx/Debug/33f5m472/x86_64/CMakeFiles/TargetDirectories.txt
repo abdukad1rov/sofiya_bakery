@@ -1,0 +1,2 @@
+C:/sofiya_bakery/shop_app/android/app/.cxx/Debug/33f5m472/x86_64/CMakeFiles/edit_cache.dir
+C:/sofiya_bakery/shop_app/android/app/.cxx/Debug/33f5m472/x86_64/CMakeFiles/rebuild_cache.dir
